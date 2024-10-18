@@ -10,7 +10,7 @@ from ACTlib01 import *
 st.title("MEU 1º WEB APP STREAMLIT")
 
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
-st.header("Hejheheheh! Prof. Massaki")
+st.header("Huehuehuesh! Create by: Sierpien")
 
 # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
 st.subheader("Sub Cabeçalho")
